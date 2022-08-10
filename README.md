@@ -14,4 +14,4 @@
 <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-### Eterna estudante  de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas pela Unip.
+### Eterna estudante de tecnologia. Iniciei os estudos em programação esse ano (2022) e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Unip.
